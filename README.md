@@ -1,7 +1,7 @@
 # YGO War League Bot
 
 [![Documentation](https://img.shields.io/badge/Documentation-Link-blue)](https://nedhmn.github.io/ygo-war-league-discord-bot/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 A Discord bot designed to streamline deck submissions for Yu-Gi-Oh! war league events. It simplifies the organizational overhead for league administrators and provides a clear submission process for team captains.
 
